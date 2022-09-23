@@ -17,7 +17,7 @@
     },
     {
         "title": "In-Place Algorithm",
-        "description": "Ref at GFG\n In-place means that the algorithm does not use extra space for manipulating the input but may require a small though non-constant extra space for its operation. Usually, this space is O(log n), though sometimes anything in O(n) (Smaller than linear) is allowed.",
+        "description": "Ref at GFG ||| In-place means that the algorithm does not use extra space for manipulating the input but may require a small though non-constant extra space for its operation. Usually, this space is O(log n), though sometimes anything in O(n) (Smaller than linear) is allowed.",
         "link": "https://www.geeksforgeeks.org/in-place-algorithm/",
         "reflinka": "https://www.geeksforgeeks.org/in-place-algorithm/",
         "reflinkb": "nothing",
