@@ -16,63 +16,11 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "3",
-        "description": "Bélanger",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "4",
-        "description": "Gonshor",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "5",
-        "description": "David",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "6",
-        "description": "Rooprai",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "7",
-        "description": "Whisler",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "8",
-        "description": "Stockett",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "9",
-        "description": "Templeman",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "10",
-        "description": "Leblanc",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "7",
-        "description": "Whisler",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "8",
-        "description": "Stockett",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "9",
-        "description": "Templeman",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
-    },
-    {
-        "title": "10",
-        "description": "Leblanc",
-        "link": "https://raw.githubusercontent.com/pcoid/pcoid/main/v.txt"
+        "title": "In-Place Algorithm",
+        "description": "Ref at GFG\n In-place means that the algorithm does not use extra space for manipulating the input but may require a small though non-constant extra space for its operation. Usually, this space is O(log n), though sometimes anything in O(n) (Smaller than linear) is allowed.",
+        "link": "https://www.geeksforgeeks.org/in-place-algorithm/",
+        "reflinka": "https://www.geeksforgeeks.org/in-place-algorithm/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
