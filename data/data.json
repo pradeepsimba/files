@@ -1,6 +1,6 @@
 [
     {
-        "title": "Array - Inserting at the Start,End and given index of an Array",
+        "title": "Array Insertions",
         "description": "Ref at leetcode",
         "link": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/Array_-_Inserting_at_the_Start_End_and_any_given_index_of_an_Array.java",
         "reflinka": "https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3244/",
@@ -8,10 +8,10 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "2",
-        "description": "Branscombe              ggggggggggggggggggggggggg",
-        "link": "https://raw.githubusercontent.com/Jeevasimba/files/main/sample.txt",
-        "reflinka": "nothing",
+        "title": "Array Deletions",
+        "description": "Ref at leetcode",
+        "link": "nothing",
+        "reflinka": "https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3246/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
     },
