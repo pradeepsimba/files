@@ -22,5 +22,13 @@
         "reflinka": "https://www.geeksforgeeks.org/in-place-algorithm/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Check whether an array is sorted ",
+        "description": "",
+        "link": "https://www.techiedelight.com/check-array-sorted-java/",
+        "reflinka": "https://www.techiedelight.com/check-array-sorted-java/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
