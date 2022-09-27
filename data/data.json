@@ -78,5 +78,13 @@
         "reflinka": "https://www.geeksforgeeks.org/java-string-subsequence-method-examples/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Java String substring() ",
+        "description": "",
+        "link": "https://www.digitalocean.com/community/tutorials/java-string-substring",
+        "reflinka": "https://www.digitalocean.com/community/tutorials/java-string-substring",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
