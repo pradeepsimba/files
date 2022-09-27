@@ -70,5 +70,13 @@
         "reflinka": "https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1158/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Java String subSequence() ",
+        "description": "",
+        "link": "https://www.geeksforgeeks.org/java-string-subsequence-method-examples/",
+        "reflinka": "https://www.geeksforgeeks.org/java-string-subsequence-method-examples/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
