@@ -94,5 +94,13 @@
         "reflinka": "https://www.digitalocean.com/community/tutorials/string-char-array-java",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "String vs StringBuffer vs StringBuilder",
+        "description": "",
+        "link": "https://www.digitalocean.com/community/tutorials/string-vs-stringbuffer-vs-stringbuilder",
+        "reflinka": "https://www.digitalocean.com/community/tutorials/string-vs-stringbuffer-vs-stringbuilder",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
