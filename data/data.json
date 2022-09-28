@@ -126,5 +126,13 @@
         "reflinka": "https://www.tutorialspoint.com/difference-between-tree-set-and-hash-set-in-java",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Java linkedhashmap",
+        "description": "",
+        "link": "https://www.geeksforgeeks.org/linkedhashmap-class-in-java/",
+        "reflinka": "https://www.geeksforgeeks.org/linkedhashmap-class-in-java/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
