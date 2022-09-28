@@ -110,5 +110,13 @@
         "reflinka": "https://www.digitalocean.com/community/tutorials/java-list",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Java set",
+        "description": "",
+        "link": "https://www.digitalocean.com/community/tutorials/java-set",
+        "reflinka": "https://www.digitalocean.com/community/tutorials/java-set",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
