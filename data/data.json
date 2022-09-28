@@ -102,5 +102,13 @@
         "reflinka": "https://www.digitalocean.com/community/tutorials/string-vs-stringbuffer-vs-stringbuilder",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Java list",
+        "description": "",
+        "link": "https://www.digitalocean.com/community/tutorials/java-list",
+        "reflinka": "https://www.digitalocean.com/community/tutorials/java-list",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
