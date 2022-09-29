@@ -158,5 +158,13 @@
         "reflinka": "https://www.studytonight.com/advanced-data-structures/introduction-to-graphs",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Graph Representations - Adjacency Matrix and List",
+        "description": "",
+        "link": "https://www.studytonight.com/advanced-data-structures/graph-representations-adjacency-matrix-and-list",
+        "reflinka": "https://www.studytonight.com/advanced-data-structures/graph-representations-adjacency-matrix-and-list",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
