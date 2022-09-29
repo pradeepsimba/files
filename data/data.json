@@ -144,10 +144,18 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "N-ary Tree Data Structure",
+        "title": "AVL Tree Data Structure",
         "description": "",
-        "link": "https://www.studytonight.com/advanced-data-structures/nary-tree",
-        "reflinka": "https://www.studytonight.com/advanced-data-structures/nary-tree",
+        "link": "https://www.studytonight.com/advanced-data-structures/avl-tree",
+        "reflinka": "https://www.studytonight.com/advanced-data-structures/avl-tree",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
+    },
+    {
+        "title": "AVL Tree Data Structure",
+        "description": "",
+        "link": "https://www.studytonight.com/advanced-data-structures/avl-tree",
+        "reflinka": "https://www.studytonight.com/advanced-data-structures/avl-tree",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
     }
