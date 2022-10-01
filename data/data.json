@@ -176,10 +176,18 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "How to check data type in Java?",
+        "title": "char to int",
         "description": "",
-        "link": "https://www.javatpoint.com/how-to-check-data-type-in-java",
-        "reflinka": "https://www.javatpoint.com/how-to-check-data-type-in-java",
+        "link": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
+        "reflinka": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
+    },
+    {
+        "title": "char to int",
+        "description": "",
+        "link": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
+        "reflinka": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
     }
