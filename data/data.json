@@ -184,10 +184,18 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "char to int",
+        "title": "Not understanded questions",
         "description": "",
-        "link": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
-        "reflinka": "https://gitlab.com/-/ide/project/edutech1610/file/tree/main/-/char%20to%20int.java/",
+        "link": "https://docs.google.com/document/d/1wJgbz7TSKp500RpP8KvXXCDu9RhxPk8_PjwYvZX0p28/edit?usp=sharing",
+        "reflinka": "https://docs.google.com/document/d/1wJgbz7TSKp500RpP8KvXXCDu9RhxPk8_PjwYvZX0p28/edit?usp=sharing",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
+    },
+    {
+        "title": "Study plan",
+        "description": "",
+        "link": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit?usp=sharing",
+        "reflinka": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit?usp=sharing",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
     }
