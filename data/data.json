@@ -222,5 +222,13 @@
         "reflinka": "https://www.geeksforgeeks.org/java-util-vector-class-java/",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "DSA TUTORIAL",
+        "description": "",
+        "link": "https://www.programiz.com/dsa/algorithm",
+        "reflinka": "https://www.programiz.com/dsa/algorithm",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
