@@ -230,5 +230,13 @@
         "reflinka": "https://www.programiz.com/dsa/algorithm",
         "reflinkb": "nothing",
         "reflinkc": "nothing"
+    },
+    {
+        "title": "Tabulation vs Memoization",
+        "description": "",
+        "link": "https://www.geeksforgeeks.org/tabulation-vs-memoization/",
+        "reflinka": "https://www.geeksforgeeks.org/tabulation-vs-memoization/",
+        "reflinkb": "nothing",
+        "reflinkc": "nothing"
     }
 ]
