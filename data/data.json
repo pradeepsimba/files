@@ -294,5 +294,21 @@
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "DFS traversal of a tree using recursion",
+        "description": "",
+        "link": "https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
+    },
+    {
+        "title": "Level Order Binary Tree Traversal",
+        "description": "",
+        "link": "https://www.geeksforgeeks.org/level-order-tree-traversal/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
