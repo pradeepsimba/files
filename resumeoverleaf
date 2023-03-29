@@ -1,0 +1,241 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Pradeep}{M}{{DOB - 16-10-1999}\\
+\href{mailto:pradeepsimba@gmail.com}{pradeepsimba@gmail.com} | +919487663750 | \href{https://www.linkedin.com/in/pradeep-simba/}{Linkedin pradeep-simba}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{Anna University}
+\descript{B.E in Electronics and Communication Engineering}
+\location{Oct 2021 | Tamil Nadu, India}
+\location{ GPA: 7.1}
+\sectionsep
+\sectionsep
+\subsection{John britto school}
+\location{Grad. May 2017|  Tamil Nadu, India}
+\location{ GPA: 7.9}
+\sectionsep
+\sectionsep
+\sectionsep
+\subsection{South Indian school}
+\location{Grad. May 2015|  Tamil Nadu, India}
+\location{ GPA: 8.9}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/Jeevasimba}{\bf pradeep} \\
+LinkedIn://  \href{https://www.linkedin.com/in/pradeep-simba/}{\bf pradeep} \\
+Naukri://  \href{https://www.naukri.com/mnjuser/profile?id=&altresid}{\bf pradeep} \\
+Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\sectionsep
+\subsection{Advance :}
+\sectionsep
+\Large    
+\textbullet{}   Java
+\sectionsep
+\sectionsep
+\subsection{Intermediate :}
+\sectionsep
+\Large
+\textbullet{}   c++
+\textbullet{}   c
+\textbullet{}   Javascript
+\textbullet{}   python
+\sectionsep
+\sectionsep
+\subsection{Novice :}
+\Large
+\textbullet{}  react js
+\textbullet{}  reactnative
+\sectionsep
+\sectionsep
+\subsection{Technologies :}
+\sectionsep
+\Large
+\textbullet{} CSS \textbullet{} HTML \textbullet{} SQL
+\sectionsep
+\sectionsep
+\subsection{Familiar:}
+\sectionsep
+\Large
+\textbullet{} Android \textbullet{} Javafx destop app \textbullet{} JNI
+\sectionsep
+\subsection{Tools} 
+\textbullet{}   Git
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Mahima}
+\descript{| Software Engineer }
+\location{from July 2022 - Present | Tamil Nadu, India}
+\sectionsep
+
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+
+\item Worked on the Django web application development team. 
+\item In Javascript and Python to plan, to design and develop the full stack web application. In production.
+\item Worked on Multi Tenant Project on Django.
+\end{tightemize}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{PROJECTS}
+\href{https://play.google.com/store/apps/details?id=prad.mob.PCPS}{App on play store}
+\sectionsep
+\subsection{Android app}
+\descript{ PCOID}
+\sectionsep
+ \textbf{Advanced remote controller app for pc.It contains many features.}  
+\sectionsep
+
+\href{https://play.google.com/store/apps/details?id=prad.mob.PCPS}{Desktop app demo}
+\sectionsep
+\subsection{PCOID - Desktop application}
+\sectionsep
+\descript{ available for windows, linux and mac.}
+\sectionsep
+I used java  \textbf{with JNI}, to develop this desktop app. I published Jpackage on my website for windows, linux and mac.
+\sectionsep
+
+\section{Research}
+\runsubsection{Fake news detection}
+\descript{| Using artificial intelligence}
+\location{Jan 2020 – Jan 2021 | Tamil Nadu, India}
+Worked with \textbf{Bharath} and \textbf{Prakash} to create \textbf{PlanIt}, a tool which  learns from large scale user fake news to plan and find fake news.  
+\sectionsep
+\sectionsep
+
+
+
+\section{CAREER OBJECTIVE} 
+\sectionsep
+
+Intend to build a career with leading corporate of hi-tech environment with committed and dedicated people,
+which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging and creative environment
+\sectionsep
+
+
+\section{Declaration} 
+\sectionsep
+
+ I \textbf{M. PRADEEP} hereby declare that the above-furnished details are true to the best of my knowledge.
+\sectionsep
+
+
+
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
