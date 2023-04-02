@@ -414,5 +414,13 @@
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "Branch and Bound",
+        "description": "full explanation",
+        "link": "https://www.geeksforgeeks.org/introduction-to-branch-and-bound-data-structures-and-algorithms-tutorial/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
