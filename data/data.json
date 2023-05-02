@@ -462,5 +462,13 @@
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "Kadane’s Algorithm",
+        "description": "full explanation",
+        "link": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
