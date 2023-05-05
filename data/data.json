@@ -470,5 +470,13 @@
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "tree traversal",
+        "description": "per-order traversal = root --> left --> right  , in-order traversal = left --> root --> right , post-order traversal = left --> right --> root",
+        "link": "https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/992/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
