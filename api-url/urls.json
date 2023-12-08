@@ -1,0 +1,8 @@
+{
+    "website": {
+      "url": "https://www.example.com"
+    },
+    "api": {
+      "serverUrl": "https://api.example.com"
+    }
+}
