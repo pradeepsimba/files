@@ -486,5 +486,13 @@
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "React Native tutorial",
+        "description": "good website it contains all layout info",
+        "link": "https://aboutreact.com/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
