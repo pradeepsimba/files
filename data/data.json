@@ -534,5 +534,13 @@
         "reflinka": "https://www.savethevideo.com/einthusan-tv-downloader",
         "reflinkb": "",
         "reflinkc": ""
+    },
+    {
+        "title": "zip file",
+        "description": "wget https://github.com/pradeepsimba/runtime-image/releases/download/rfrefr/image.zip",
+        "link": "",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
