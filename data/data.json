@@ -537,7 +537,7 @@
     },
     {
         "title": "zip file",
-        "description": "wget https://github.com/pradeepsimba/runtime-image/releases/download/rfrefr/image.zip",
+        "description": "wget https://github.com/pradeepsimba/runtime-image/releases/download/rfrefr/image.zip && unzip image.zip && cd image/bin && ./algo",
         "link": "",
         "reflinka": "",
         "reflinkb": "",
