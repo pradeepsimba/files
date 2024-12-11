@@ -1,7 +1,9 @@
 [
-  {"task": "First Task"},
-  {"task": "Second Task"},
-  {"task": "Third Task"},  
-  {"task": "five Task"}
-  
+  {"task": "Check Mate (Verify)"},
+  {"task": "Check to king ( loose coins )"},
+  {"task": "Don't try to miss to watch all enemy"},  
+  {"task": "Don't loss any coins"},
+  {"task": "If there are 2 (or) more coins in danger make a right move"},
+  {"task": "predict enemy's next step then move"},
+  {"task": "don't make brilliant move"}
 ]
