@@ -5,5 +5,6 @@
   {"task": "Don't loss any coins"},
   {"task": "If there are 2 (or) more coins in danger make a right move"},
   {"task": "predict enemy's next step then move"},
+  {"task": "don't try to check mate oponent"},
   {"task": "don't make brilliant move"}
 ]
