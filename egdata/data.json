@@ -770,5 +770,9 @@
     {
         "word": "obfuscate",
         "a" : "தெளிவற்ற"
+    },
+    {
+        "word": "throughput",
+        "a" : "செயல்திறன்"
     }
 ]
