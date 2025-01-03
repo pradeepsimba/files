@@ -894,5 +894,13 @@
     {
         "word": "phenomenon",
         "a" : "நிகழ்வு"
+    },
+    {
+        "word": "Factor",
+        "a" : "காரணி"
+    },
+    {
+        "word": "inflation",
+        "a" : "பணவீக்கம்"
     }
 ]
