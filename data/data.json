@@ -619,6 +619,14 @@
         "title": "Statistics",
         "description": "",
         "link": "https://www.khanacademy.org/math/ap-statistics",
+        "reflinka": "https://www.khanacademy.org/math/statistics-probability",
+        "reflinkb": "https://www.khanacademy.org/math/",
+        "reflinkc": ""
+    },
+    {
+        "title": "linear algebra",
+        "description": "",
+        "link": "https://www.khanacademy.org/math/linear-algebra",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
