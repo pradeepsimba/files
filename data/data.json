@@ -632,11 +632,19 @@
         "reflinkc": ""
     },
     {
-        "title": "Highschool physics",
+        "title": "Physics khanacademy",
         "description": "",
         "link": "https://www.khanacademy.org/science/highschool-physics",
-        "reflinka": "",
-        "reflinkb": "",
+        "reflinka": "https://www.khanacademy.org/science/ap-college-physics-1",
+        "reflinkb": "https://www.khanacademy.org/science/ap-physics-2",
         "reflinkc": ""
+    },
+    {
+        "title": "Chemistry khanacademy",
+        "description": "",
+        "link": "https://www.khanacademy.org/science/hs-chemistry",
+        "reflinka": "https://www.khanacademy.org/science/ap-chemistry-beta",
+        "reflinkb": "https://www.khanacademy.org/science/hs-chemistry-tx",
+        "reflinkc": "https://www.khanacademy.org/science/chemistry"
     }
 ]
