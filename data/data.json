@@ -646,5 +646,13 @@
         "reflinka": "https://www.khanacademy.org/science/ap-chemistry-beta",
         "reflinkb": "https://www.khanacademy.org/science/hs-chemistry-tx",
         "reflinkc": "https://www.khanacademy.org/science/chemistry"
+    },
+    {
+        "title": "Chrome Canvas",
+        "description": "",
+        "link": "https://canvas.apps.chrome/",
+        "reflinka": "",
+        "reflinkb": "",
+        "reflinkc": ""
     }
 ]
