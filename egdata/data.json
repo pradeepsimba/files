@@ -998,5 +998,9 @@
     {
         "word": "time elapsed",
         "a" : "நேரம் கழிந்தது"
+    },
+    {
+        "word": "invertible",
+        "a" : "தலைகீழாக"
     }
 ]
