@@ -3,6 +3,6 @@
       "url": "https://www.example.com"
     },
     "api": {
-      "serverUrl": "http://localhost:8000"
+      "serverUrl": "103.53.52.6"
     }
 }
