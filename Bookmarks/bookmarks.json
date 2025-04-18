@@ -1,6 +1,6 @@
 [
   {
-    "name": "Folder One",
+    "name": "Sample One",
     "id": "folder1",
     "items": [
       {"name": "Google", "url": "https://www.google.com"},
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "name": "Folder Two",
+    "name": "sample Two",
     "id": "folder2",
     "items": [
       {"name": "YouTube", "url": "https://www.youtube.com"},
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "name": "Folder Three",
+    "name": "Sample Three",
     "id": "folder3",
     "items": [
       {"name": "Document", "url": "https://www.example.com/document.pdf"},
