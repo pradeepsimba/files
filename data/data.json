@@ -1,6 +1,6 @@
 [
     {
-        "title": "Nmumber of phone numbers registered in my aadhar",
+        "title": "Number of phone numbers registered in my aadhar",
         "description": "check numbers",
         "link": "https://tafcop.sancharsaathi.gov.in/telecomUser/",
         "reflinka": "nothing",
@@ -296,14 +296,6 @@
         "reflinkc": ""
     },
     {
-        "title": "Tamil translate",
-        "description": "",
-        "link": "https://www.google.com/search?q=translate+english+to+tamil&oq=t&aqs=edge.1.69i60j69i59j69i57j69i59l2j0i131i433i512j69i60l3.898j0j9&sourceid=chrome&ie=UTF-8",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
         "title": "DFS traversal of a tree using recursion",
         "description": "",
         "link": "https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/",
@@ -387,14 +379,6 @@
         "title": "data",
         "description": "",
         "link": "https://github.com/Jeevasimba/files/edit/main/data/data.json",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "wiki",
-        "description": "",
-        "link": "https://github.com/mission-peace/interview/wiki",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
@@ -512,40 +496,8 @@
         "reflinkc": ""
     },
     {
-        "title": "kodi tv repo",
-        "description": "https://tobalan.github.io",
-        "link": "https://tobalan.github.io",
-        "reflinka": "https://tobalan.github.io",
-        "reflinkb": "https://hotstar.com/in/activate",
-        "reflinkc": ""
-    },
-    {
         "title": "pf balance",
         "description": " send sms `EPFOHO UAN` to 7738299899",
-        "link": "",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "einthusan",
-        "description": "",
-        "link": "https://einthusan.tv/",
-        "reflinka": "https://www.savethevideo.com/einthusan-tv-downloader",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "zip file",
-        "description": "wget https://github.com/pradeepsimba/runtime-image/releases/download/rfrefr/image.zip && unzip image.zip && cd image/bin && ./algo",
-        "link": "",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "bridge",
-        "description": "Bridge obfs4 34.136.87.107:9001 95E9EC7AC6B9B8BDA6767366BAB2D265F05DBF7C cert=rrdhIkXB13Ry+yQxUCPKnkARY8hMJTjpJthIgeoyDybc/5jJ0R/KzKCL5FudeWUxJtwHcA iat-mode=0",
         "link": "",
         "reflinka": "",
         "reflinkb": "",
@@ -563,22 +515,6 @@
         "title": "Networking docs",
         "description": "",
         "link": "https://docs.google.com/document/d/1KU6J5DIkXrqaGQwtxRZDNjXrZ81FihHJb77BFITnhuQ/edit?usp=sharing",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "tamilyogi",
-        "description": "",
-        "link": "",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "tor",
-        "description": "sudo apt update && sudo apt install tor && sudo systemctl start tor && sudo systemctl enable tor && sudo apt install proxychains | sudo nano /etc/proxychains.conf ",
-        "link": "",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
