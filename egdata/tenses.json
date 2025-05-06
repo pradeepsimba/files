@@ -6,7 +6,8 @@
           {
             "sentenceType": "Affirmative",
             "formula": "I / you / we / they + main verb (base form); He / she / it + main verb + s/es",
-            "example": "I play tennis; She plays tennis."
+            "example": "I play tennis; She plays tennis.",
+            "practice with": "he"
           },
           {
             "sentenceType": "Negative",
