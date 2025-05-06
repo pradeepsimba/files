@@ -1,0 +1,304 @@
+{
+    "tenses": [
+      {
+        "name": "Simple Present Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "I / you / we / they + main verb (base form); He / she / it + main verb + s/es",
+            "example": "I play tennis; She plays tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "I / you / we / they + do not (don't) + main verb (base form); He / she / it + does not (doesn't) + main verb (base form)",
+            "example": "I do not play tennis; He doesn't play tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Do + I / you / we / they + main verb (base form)?; Does + he / she / it + main verb (base form)?",
+            "example": "Do you play tennis?; Does she play tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Do + I / you / we / they + not + main verb (base form)?; Does + he / she / it + not + main verb (base form)?",
+            "example": "Don't you play tennis?; Doesn't he play tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Present Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "I + am + main verb + ing; He / She / It + is + main verb + ing; You / We / They + are + main verb + ing",
+            "example": "I am playing tennis; She is playing tennis; They are playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "I + am not + main verb + ing; He / She / It + is not (isn't) + main verb + ing; You / We / They + are not (aren't) + main verb + ing",
+            "example": "I am not playing tennis; He isn't playing tennis; They aren't playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Am + I + main verb + ing?; Is + He / She / It + main verb + ing?; Are + You / We / They + main verb + ing?",
+            "example": "Am I playing tennis?; Is she playing tennis?; Are you playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Am + I + not + main verb + ing?; Is + He / She / It + not + main verb + ing?; Are + You / We / They + not + main verb + ing?",
+            "example": "Am I not playing tennis?; Isn't he playing tennis?; Aren't they playing tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Present Perfect Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "I / you / we / they + have + past participle; He / she / it + has + past participle",
+            "example": "I have played tennis; She has played tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "I / you / we / they + have not (haven't) + past participle; He / she / it + has not (hasn't) + past participle",
+            "example": "I haven't played tennis; He hasn't played tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Have + I / you / we / they + past participle?; Has + he / she / it + past participle?",
+            "example": "Have you played tennis?; Has she played tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Have + I / you / we / they + not + past participle?; Has + he / she / it + not + past participle?",
+            "example": "Haven't you played tennis?; Hasn't he played tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Present Perfect Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "I / you / we / they + have been + main verb + ing; He / she / it + has been + main verb + ing",
+            "example": "I have been playing tennis; She has been playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "I / you / we / they + have not been (haven't been) + main verb + ing; He / she / it + has not been (hasn't been) + main verb + ing",
+            "example": "I haven't been playing tennis; He hasn't been playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Have + I / you / we / they + been + main verb + ing?; Has + he / she / it + been + main verb + ing?",
+            "example": "Have you been playing tennis?; Has she been playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Have + I / you / we / they + not been + main verb + ing?; Has + he / she / it + not been + main verb + ing?",
+            "example": "Haven't you been playing tennis?; Hasn't he been playing tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Simple Past Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + Past Simple form (verb + ed or irregular form)",
+            "example": "I played tennis; She went home."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + did not (didn't) + main verb (base form)",
+            "example": "I did not play tennis; He didn't go home."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Did + Subject + main verb (base form)?",
+            "example": "Did you play tennis?; Did she go home?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Did + Subject + not + main verb (base form)?",
+            "example": "Didn't you play tennis?; Didn't he go home?"
+          }
+        ]
+      },
+      {
+        "name": "Past Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "I / He / She / It + was + main verb + ing; You / We / They + were + main verb + ing",
+            "example": "I was playing tennis; They were playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "I / He / She / It + was not (wasn't) + main verb + ing; You / We / They + were not (weren't) + main verb + ing",
+            "example": "I was not playing tennis; They weren't playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Was + I / he / she / it + main verb + ing?; Were + you / we / they + main verb + ing?",
+            "example": "Was he playing tennis?; Were they playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Was + I / he / she / it + not + main verb + ing?; Were + you / we / they + not + main verb + ing?",
+            "example": "Wasn't he playing tennis?; Weren't they playing tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Past Perfect Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + had + past participle",
+            "example": "I had played tennis; She had played tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + had not (hadn't) + past participle",
+            "example": "I hadn't played tennis; He hadn't played tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Had + Subject + past participle?",
+            "example": "Had you played tennis?; Had she played tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Had + Subject + not + past participle?",
+            "example": "Hadn't you played tennis?; Hadn't he played tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Past Perfect Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + had been + main verb + ing",
+            "example": "I had been playing tennis; She had been playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + had not been (hadn't been) + main verb + ing",
+            "example": "I hadn't been playing tennis; He hadn't been playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Had + Subject + been + main verb + ing?",
+            "example": "Had you been playing tennis?; Had she been playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Had + Subject + not been + main verb + ing?",
+            "example": "Hadn't you been playing tennis?; Hadn't he been playing tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Future Simple Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + will + main verb (base form)",
+            "example": "I will play tennis; She will play tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + will not (won't) + main verb (base form)",
+            "example": "I will not play tennis; He won't play tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Will + Subject + main verb (base form)?",
+            "example": "Will you play tennis?; Will she play tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Will + Subject + not + main verb (base form)?",
+            "example": "Won't you play tennis?; Won't he play tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Future Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + will be + main verb + ing",
+            "example": "I will be playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + will not be (won't be) + main verb + ing",
+            "example": "I will not be playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Will + Subject + be + main verb + ing?",
+            "example": "Will you be playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Will + Subject + not be + main verb + ing?",
+            "example": "Won't you be playing tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Future Perfect Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + will have + past participle",
+            "example": "I will have played tennis; She will have played tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + will not have (won't have) + past participle",
+            "example": "I will not have played tennis; He will not have played tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Will + Subject + have + past participle?",
+            "example": "Will you have played tennis?; Will she have played tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Will + Subject + not have + past participle?",
+            "example": "Won't you have played tennis?; Won't she have played tennis?"
+          }
+        ]
+      },
+      {
+        "name": "Future Perfect Continuous Tense",
+        "types": [
+          {
+            "sentenceType": "Affirmative",
+            "formula": "Subject + will have been + main verb + ing",
+            "example": "I will have been playing tennis; She will have been playing tennis."
+          },
+          {
+            "sentenceType": "Negative",
+            "formula": "Subject + will not have been (won't have been) + main verb + ing",
+            "example": "I will not have been playing tennis; He will not have been playing tennis."
+          },
+          {
+            "sentenceType": "Interrogative",
+            "formula": "Will + Subject + have been + main verb + ing?",
+            "example": "Will you have been playing tennis?; Will she have been playing tennis?"
+          },
+          {
+            "sentenceType": "Negative-Interrogative",
+            "formula": "Will + Subject + not have been + main verb + ing?",
+            "example": "Won't you have been playing tennis?; Won't he have been playing tennis?"
+          }
+        ]
+      }
+    ]
+}
