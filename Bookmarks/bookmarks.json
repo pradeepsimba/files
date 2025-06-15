@@ -56,7 +56,8 @@
     "name": "Research",
     "id": "7",
     "items": [
-      {"name": "Environ", "url": "https://enron.com/pages/the-egg?srsltid=AfmBOooe5T4SvzfsZzQRDbJPAe8pwM8RCM_H_uLyx_o29riiFccgt2jP"}
+      {"name": "Environ", "url": "https://enron.com/pages/the-egg?srsltid=AfmBOooe5T4SvzfsZzQRDbJPAe8pwM8RCM_H_uLyx_o29riiFccgt2jP"},
+      {"name": "Adobe Acrobat", "url": "https://acrobat.adobe.com/link/home"}
     ]
   }
 ]
