@@ -59,5 +59,12 @@
       {"name": "Environ", "url": "https://enron.com/pages/the-egg?srsltid=AfmBOooe5T4SvzfsZzQRDbJPAe8pwM8RCM_H_uLyx_o29riiFccgt2jP"},
       {"name": "Adobe Acrobat", "url": "https://acrobat.adobe.com/link/home"}
     ]
+  },
+  {
+    "name": "Maths",
+    "id": "8",
+    "items": [
+      {"name": "Khan Academy", "url": "https://www.khanacademy.org/profile/me/courses?learn=1"}
+    ]
   }
 ]
