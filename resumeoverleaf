@@ -107,8 +107,8 @@
 \section{Links} 
 Github:// \href{https://github.com/pradeepsimba}{\bf pradeep} \\
 LinkedIn://  \href{https://www.linkedin.com/in/pradeep-simba/}{\bf pradeep} \\
-Naukri://  \href{https://www.naukri.com/mnjuser/profile?id=&altresid}{\bf pradeep} \\
-Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep}
+Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep} \\
+Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -191,22 +191,6 @@ Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{PROJECTS}
-\href{https://play.google.com/store/apps/details?id=prad.mob.PCPS}{App on play store}
-\sectionsep
-\subsection{Android app}
-\descript{ PCOID}
-\sectionsep
- \textbf{Advanced remote controller app for pc.It contains many features.}  
-\sectionsep
-
-\href{https://pcoid.github.io/pcoid/}{Desktop app demo}
-\sectionsep
-\subsection{PCOID - Desktop application}
-\sectionsep
-\descript{ available for windows, linux and mac.}
-\sectionsep
-I used java  \textbf{with JNI}, to develop this desktop app. I published Jpackage on my website for windows, linux and mac.
 \sectionsep
 
 \section{Research}
