@@ -69,5 +69,18 @@
       {"name": "integral-calculus", "url": "https://www.khanacademy.org/math/integral-calculus"},
       {"name": "differential-calculus", "url": "https://www.khanacademy.org/math/differential-calculus"}
     ]
+  },
+  {
+    "name": "Company",
+    "id": "9",
+    "items": [
+      {"name": "Excel sheet task", "url": "https://docs.google.com/spreadsheets/d/1j3P9hRYjLC3u2GjAuXJmfP86aaXJ1DL-I7m7twetPDA/edit?gid=0#gid=0"},
+      {"name": "mpulse", "url": "https://mpulse.co.in/login"},
+      {"name": "mpulse.plus", "url": "https://mpulse.plus/dashboard"},
+      {"name": "e-mail", "url": "https://id.ionos.com/identifier?action=logout"},
+      {"name": "colab", "url": "https://colab.research.google.com/?authuser=1"},
+      {"name": "Meet", "url": "https://meet.google.com/nvj-wtzy-jda"},
+      {"name": "Rough sheet", "url": "https://docs.google.com/spreadsheets/d/1TretNO5fXL5yDZg_DAhUyRKz0WVDhI3sIARCQNppFpE/edit?pli=1&gid=1284258707#gid=1284258707"}
+    ]
   }
 ]
