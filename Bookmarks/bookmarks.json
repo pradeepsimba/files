@@ -64,7 +64,8 @@
     "name": "Maths",
     "id": "8",
     "items": [
-      {"name": "Khan Academy", "url": "https://www.khanacademy.org/profile/me/courses?learn=1"}
+      {"name": "Khan Academy", "url": "https://www.khanacademy.org/profile/me/courses?learn=1"},
+      {"name": "Statistics Probability", "url": "https://www.khanacademy.org/math/statistics-probability"}
     ]
   }
 ]
