@@ -1046,5 +1046,10 @@
     {
         "word": "though",
         "a" : "இருந்தாலும்"
+    },
+    {
+        "word": "wiggle",
+        "a" : "அசையும்",
+        "b" : "அசைத்தல் (asaiththal) or ஆட்டுதல் (aattuthal) would be good choices, implying a slight, back-and-forth or side-to-side movement."
     }
 ]
