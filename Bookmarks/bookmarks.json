@@ -10,6 +10,7 @@
     "name": "Coding",
     "id": "2",
     "items": [
+      {"name": "Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/preview"},
       {"name": "Neural networks and deep learning", "url": "http://neuralnetworksanddeeplearning.com/"},
       {"name": "ML-Code: 100 Days of ML Coding", "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"},
       {"name": "microsoft AI-For-Beginners", "url": "https://github.com/microsoft/AI-For-Beginners?tab=readme-ov-file"},
