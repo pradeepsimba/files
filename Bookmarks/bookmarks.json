@@ -85,5 +85,12 @@
       {"name": "Meet", "url": "https://meet.google.com/nvj-wtzy-jda"},
       {"name": "Rough sheet", "url": "https://docs.google.com/spreadsheets/d/1TretNO5fXL5yDZg_DAhUyRKz0WVDhI3sIARCQNppFpE/edit?pli=1&gid=1284258707#gid=1284258707"}
     ]
+  },  
+  {
+    "name": "Chess",
+    "id": "1",
+    "items": [
+      {"name": "ZIFFI", "url": "https://app.ziffichess.com"}
+    ]
   }
 ]
