@@ -88,9 +88,18 @@
   },  
   {
     "name": "Chess",
-    "id": "1",
+    "id": "10",
     "items": [
       {"name": "ZIFFI", "url": "https://app.ziffichess.com"}
+    ]
+  },  
+  {
+    "name": "English",
+    "id": "11",
+    "items": [
+      {"name": "English Gramer", "url": "https://pradeep.simba.fast-page.org/English"},
+      {"name": "Tenses Formula", "url": "https://pradeep.simba.fast-page.org/tenses-AI"},
+      {"name": "Tenses example", "url": "https://englishgrammarhere.com/tenses/12-tenses-formula-with-example-pdf"}
     ]
   }
 ]
