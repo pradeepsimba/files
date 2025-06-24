@@ -10,8 +10,6 @@
     "name": "Coding",
     "id": "2",
     "items": [
-      {"name": "Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/preview"},
-      {"name": "Exam reg - Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/announcements?force=true#registration_confirmation"},
       {"name": "Neural networks and deep learning", "url": "http://neuralnetworksanddeeplearning.com/"},
       {"name": "ML-Code: 100 Days of ML Coding", "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"},
       {"name": "microsoft AI-For-Beginners", "url": "https://github.com/microsoft/AI-For-Beginners?tab=readme-ov-file"},
@@ -19,9 +17,7 @@
       {"name": "codebasics", "url": "https://github.com/codebasics/py/tree/master"},
       {"name": "AI Expert Roadmap", "url": "https://i.am.ai/roadmap/#%F0%9F%9A%A6-wrap-up"},
       {"name": "homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained", "url": "https://github.com/trekhleb/homemade-machine-learning?tab=readme-ov-file"},
-      {"name": "ai book reference", "url": "https://mml-book.github.io/"},
-      {"name": "NPTEL", "url": "https://nptel.ac.in/courses/106106236"},
-      {"name": "Full Basic AI NPTEL", "url": "https://nptel.ac.in/domains/discipline/106?course=106_0"}
+      {"name": "ai book reference", "url": "https://mml-book.github.io/"}
     ]
   },
   {
@@ -108,6 +104,17 @@
     "id": "12",
     "items": [
       {"name": "Drone", "url": "https://dronemaker.co.in"}
+    ]
+  },
+  {
+    "name": "NPTEL",
+    "id": "13",
+    "items": [
+      {"name": "Mathematical Foundations for Machine Learning, IISc Bangalore", "url": "https://nptel.ac.in/courses/106108702"},
+      {"name": "NPTEL", "url": "https://nptel.ac.in/courses/106106236"},
+      {"name": "Full Basic AI NPTEL", "url": "https://nptel.ac.in/domains/discipline/106?course=106_0"},
+      {"name": "Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/preview"},
+      {"name": "Exam reg - Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/announcements?force=true#registration_confirmation"},
     ]
   }
 ]
