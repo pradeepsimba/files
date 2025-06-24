@@ -67,7 +67,8 @@
       {"name": "Khan Academy", "url": "https://www.khanacademy.org/profile/me/courses"},
       {"name": "Statistics Probability", "url": "https://www.khanacademy.org/math/statistics-probability"},
       {"name": "integral-calculus", "url": "https://www.khanacademy.org/math/integral-calculus"},
-      {"name": "differential-calculus", "url": "https://www.khanacademy.org/math/differential-calculus"}
+      {"name": "differential-calculus", "url": "https://www.khanacademy.org/math/differential-calculus"},
+      {"name": "Graph Calculator", "url": "https://www.desmos.com/calculator"}
     ]
   },
   {
