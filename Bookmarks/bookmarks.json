@@ -112,7 +112,7 @@
     "id": "13",
     "items": [
       {"name": "Mathematical Foundations for Machine Learning, IISc Bangalore", "url": "https://nptel.ac.in/courses/106108702"},
-      {"name": "NPTEL", "url": "https://nptel.ac.in/courses/106106236"},
+      {"name": "NPTEL Machine Learning", "url": "https://nptel.ac.in/courses/106106236"},
       {"name": "Full Basic AI NPTEL", "url": "https://nptel.ac.in/domains/discipline/106?course=106_0"},
       {"name": "Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/preview"},
       {"name": "Exam reg - Mathematical Foundations for Machine Learning", "url": "https://onlinecourses.nptel.ac.in/noc25_cs136/announcements?force=true#registration_confirmation"}
