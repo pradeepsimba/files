@@ -200,14 +200,6 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "Study plan",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit?usp=sharing",
-        "reflinka": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit?usp=sharing",
-        "reflinkb": "nothing",
-        "reflinkc": "nothing"
-    },
-    {
         "title": "Initializing a List in Java",
         "description": "",
         "link": "https://www.geeksforgeeks.org/initializing-a-list-in-java/",
@@ -248,22 +240,6 @@
         "reflinkc": "nothing"
     },
     {
-        "title": "Interview Doc",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit#heading=h.8n0cpmtoqyu3",
-        "reflinka": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit#heading=h.8n0cpmtoqyu3",
-        "reflinkb": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit#heading=h.8n0cpmtoqyu3",
-        "reflinkc": "https://docs.google.com/document/d/1GPI1dStnPIBQmM-Ae9EQoinCPF7SQMdHmtCcA1rTgrY/edit#heading=h.8n0cpmtoqyu3"
-    },
-    {
-        "title": "learning curve data",
-        "description": "",
-        "link": "https://docs.google.com/spreadsheets/d/1i_2krDXc2gRTdm5HO0mBGkupRdP4wdYLm_x4i4VHKdM/edit?usp=sharing",
-        "reflinka": "https://docs.google.com/spreadsheets/d/1i_2krDXc2gRTdm5HO0mBGkupRdP4wdYLm_x4i4VHKdM/edit?usp=sharing",
-        "reflinkb": "https://docs.google.com/spreadsheets/d/1i_2krDXc2gRTdm5HO0mBGkupRdP4wdYLm_x4i4VHKdM/edit?usp=sharing",
-        "reflinkc": "https://docs.google.com/spreadsheets/d/1i_2krDXc2gRTdm5HO0mBGkupRdP4wdYLm_x4i4VHKdM/edit?usp=sharing"
-    },
-    {
         "title": "Subarray/Substring vs Subsequence",
         "description": "",
         "link": "https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/",
@@ -283,14 +259,6 @@
         "title": "BigInteger Class in Java",
         "description": "",
         "link": "https://www.geeksforgeeks.org/biginteger-class-in-java/",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Rough DOC",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1r2HV5yV_fDzRJc5hjpVXBal45NPRm5hlEkpkDTSoF98/edit?usp=sharing",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
@@ -320,14 +288,6 @@
         "reflinkc": ""
     },
     {
-        "title": "eg",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1WaEDiobVSr8jv9U7HnLuw9UggYKFNVWp5KGj4iB_5sA/edit",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
         "title": "Power set",
         "description": "",
         "link": "https://www.geeksforgeeks.org/power-set/",
@@ -352,49 +312,9 @@
         "reflinkc": ""
     },
     {
-        "title": "algorithms",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1HptI2V4uHGkeV4IlH7F4sgLerq45IC65L7BG86HtiLQ/edit",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "eg audio",
-        "description": "",
-        "link": "https://docs.google.com/document/d/131IRx0WYJ2t6FtoB65T52Uvu8oWe5aU6TaCYYTCt9z8/edit",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "datae",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/files/edit/main/egdata/data.json",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "data",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/files/edit/main/data/data.json",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
         "title": "Backtracking Algorithm",
         "description": "",
         "link": "https://www.simplilearn.com/tutorials/data-structure-tutorial/backtracking-algorithm#introduction_to_backtracking_algorithm",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "can't understand",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1LG6ebFSKA0pcyAr57D6VH54MGZVkkFYJIapvLovD04U/edit?usp=sharing",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
@@ -411,22 +331,6 @@
         "title": "Window Sliding Technique",
         "description": "full explanation",
         "link": "https://www.geeksforgeeks.org/window-sliding-technique/",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Pending problems",
-        "description": "full explanation",
-        "link": "https://docs.google.com/document/d/1JV8BRa1Su1o-5C6KCTExIC-G6bmZX-jD-xlwTJLmnl4/edit?usp=sharing",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "eng notes",
-        "description": "full explanation",
-        "link": "https://docs.google.com/document/d/1Gm-6yzqWvFj4xS2aFxyJP5AapwmHSKoMbZ06tcTwzU8/edit?usp=sharing",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
@@ -464,22 +368,6 @@
         "reflinkc": ""
     },
     {
-        "title": "Share market",
-        "description": "My notes",
-        "link": "https://docs.google.com/document/d/1QrOBG5OK2rpEo5vD4ANm0YHsFwpwlm_eXXI9K2daLgI/edit#heading=h.m9gdb6sgs64i",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "React Native tutorial",
-        "description": "good website it contains all layout info",
-        "link": "https://aboutreact.com/",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
         "title": "Bundle npm packages",
         "description": "my github example",
         "link": "https://github.com/pradeepsimba/browsefy",
@@ -496,86 +384,6 @@
         "reflinkc": ""
     },
     {
-        "title": "hack splaining",
-        "description": "",
-        "link": "https://docs.google.com/document/d/12k62m48dhujkgwP_kqBlShm9DBCxF0a8X5Fd2S3Z_20/edit?usp=sharing",
-        "reflinka": "https://www.hacksplaining.com/",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Networking docs",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1KU6J5DIkXrqaGQwtxRZDNjXrZ81FihHJb77BFITnhuQ/edit?usp=sharing",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Maths Notes",
-        "description": "",
-        "link": "https://docs.google.com/document/d/1ulVwsIumIHwXlRrD4FgMeeN4CzSEF6xxQo8EwAZQSOA/edit?usp=sharing",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Datasets Sample",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/files/tree/main/Datasets",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Reference code",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/files/tree/main/Reference%20code%20files",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Repo Token",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/Mynotes/blob/main/Repo.csv",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Statistics",
-        "description": "",
-        "link": "https://www.khanacademy.org/math/ap-statistics",
-        "reflinka": "https://www.khanacademy.org/math/statistics-probability",
-        "reflinkb": "https://www.khanacademy.org/math/",
-        "reflinkc": ""
-    },
-    {
-        "title": "linear algebra",
-        "description": "",
-        "link": "https://www.khanacademy.org/math/linear-algebra",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Physics khanacademy",
-        "description": "",
-        "link": "https://www.khanacademy.org/science/highschool-physics",
-        "reflinka": "https://www.khanacademy.org/science/ap-college-physics-1",
-        "reflinkb": "https://www.khanacademy.org/science/ap-physics-2",
-        "reflinkc": ""
-    },
-    {
-        "title": "Chemistry khanacademy",
-        "description": "",
-        "link": "https://www.khanacademy.org/science/hs-chemistry",
-        "reflinka": "https://www.khanacademy.org/science/ap-chemistry-beta",
-        "reflinkb": "https://www.khanacademy.org/science/hs-chemistry-tx",
-        "reflinkc": "https://www.khanacademy.org/science/chemistry"
-    },
-    {
         "title": "Chrome Canvas",
         "description": "",
         "link": "https://canvas.apps.chrome/",
@@ -587,14 +395,6 @@
         "title": "google messages",
         "description": "",
         "link": "https://messages.google.com/web/conversations",
-        "reflinka": "",
-        "reflinkb": "",
-        "reflinkc": ""
-    },
-    {
-        "title": "Bookmarks",
-        "description": "",
-        "link": "https://github.com/pradeepsimba/files/edit/main/Bookmarks/bookmarks.json",
         "reflinka": "",
         "reflinkb": "",
         "reflinkc": ""
