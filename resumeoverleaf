@@ -116,47 +116,46 @@ Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
 
 
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
+
+\subsection{Programming Languages}
+\textbullet{} Java (Advanced) \\
+\textbullet{} Python, JavaScript, C, C++ (Intermediate)
+
 \sectionsep
-\subsection{Advance :}
+
+\subsection{Frontend Technologies}
+\textbullet{} HTML5, CSS3, Bootstrap \\
+\textbullet{} Angular (Familiar), React.js, React Native (Basic)
+
 \sectionsep
-\Large    
-\textbullet{}   Java
+
+\subsection{Backend \& Frameworks}
+\textbullet{} Django (Familiar), REST APIs \\
+\textbullet{} Flutter (Beginner), JavaFX Desktop Apps
+
 \sectionsep
+
+\subsection{Database \& Storage}
+\textbullet{} SQL, SQLite, PostgreSQL
+
 \sectionsep
-\subsection{Intermediate :}
+
+\subsection{Tools \& DevOps}
+\textbullet{} Git, GitHub, Postman \\
+\textbullet{} Docker,K8s, Linux CLI
+
 \sectionsep
-\Large
-\textbullet{}   c++
-\textbullet{}   c
-\textbullet{}   Javascript
-\textbullet{}   python
-\sectionsep
-\sectionsep
-\subsection{Novice :}
-\Large
-\textbullet{}  react js
-\textbullet{}  reactnative
-\sectionsep
-\sectionsep
-\subsection{Technologies :}
-\sectionsep
-\Large
-\textbullet{} CSS \textbullet{} HTML \textbullet{} SQL
-\sectionsep
-\sectionsep
-\subsection{Familiar:}
-\sectionsep
-\Large
-\textbullet{} Android \textbullet{} Javafx destop app \textbullet{} JNI \textbullet{} DJango \textbullet{} Angular
-\sectionsep
-\subsection{Tools} 
-\textbullet{}   Git
+
+\subsection{Other Skills}
+\textbullet{} Android App Development (Familiar) \\
+\textbullet{} JNI (Java Native Interface)
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
@@ -194,32 +193,28 @@ Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
 \sectionsep
 
 \section{Research}
-\runsubsection{Fake news detection}
-\descript{| Using artificial intelligence}
+\runsubsection{Fake News Detection System}
+\descript{| Leveraging Artificial Intelligence for Misinformation Filtering}
 \location{Jan 2020 – Jan 2021 | Tamil Nadu, India}
-Worked with \textbf{Bharath} and \textbf{Prakash} to create \textbf{PlanIt}, a tool which  learns from large scale user fake news to plan and find fake news.  
-\sectionsep
-\sectionsep
+Collaborated with researchers \textbf{Sanjay},\textbf{Sabaresh} and \textbf{Prakash} on the development of \textbf{PlanIt}, an AI-driven system designed to detect and filter fake news content. The system utilized machine learning models trained on large-scale datasets of user-generated news and misinformation. Key contributions included:
+\begin{itemize}
+  \item Achieved high accuracy and precision in distinguishing between real and fake news.
+\end{itemize}
+This project contributed toward reducing misinformation spread on digital platforms, showcasing the potential of AI in social good applications.
 
-
-
-\section{CAREER OBJECTIVE} 
-\sectionsep
-
-Intend to build a career with leading corporate of hi-tech environment with committed and dedicated people,
-which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging and creative environment
 \sectionsep
 
-
-\section{Declaration} 
+\section{Career Objective}
 \sectionsep
+As a dedicated and detail-oriented software developer with over three years of hands-on experience, I aim to build a long-term, rewarding career in a forward-thinking and innovative organization. I am passionate about solving real-world problems through technology and enjoy working in dynamic, fast-paced environments that challenge my technical and creative abilities.
 
- I \textbf{M. PRADEEP} hereby declare that the above-furnished details are true to the best of my knowledge.
+I seek opportunities where I can collaborate with talented professionals to design, develop, and deploy scalable software solutions that add tangible value. I am committed to continuous learning and eager to expand my expertise across full-stack development, system architecture, and emerging technologies like cloud computing and AI.
+
+My goal is to contribute not only through technical excellence but also by actively participating in team-driven success, mentoring, and strategic decision-making. I value organizations that promote innovation, transparency, and a culture of mutual growth and professional development.
+
+
+
 \sectionsep
-
-
-
-
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
