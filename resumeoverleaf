@@ -61,18 +61,21 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+% \lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Pradeep}{M}{{DOB - 16-10-1999}\\
-\faIcon{envelope} \href{mailto:pradeepsimba@gmail.com}{\textcolor{blue}{pradeepsimba@gmail.com}} \quad | \quad
-\faIcon{phone} \textcolor{blue}{+91 90809 41127} \quad | \quad
-\faIcon{globe} \href{https://pradeepsimba.github.io}{\textcolor{blue}{Portfolio}}
+\namesection{{\bfseries }}{{\bfseries Pradeep Mariannan}}{%
+  {\small DOB - 16-10-1999}\\
+  \faIcon{envelope} \href{mailto:pradeepsimba@gmail.com}{\textcolor{blue}{pradeepsimba@gmail.com}} \quad | \quad
+  \faIcon{phone} \textcolor{blue}{+91 90809 41127} \quad | \quad
+  \faIcon{globe} \href{https://pradeepsimba.github.io}{\textcolor{blue}{Portfolio}}
 }
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
