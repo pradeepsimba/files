@@ -47,7 +47,10 @@
 
 \documentclass[]{deedy-resume-openfont}
 \usepackage{fancyhdr}
- 
+ \usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}  
+\usepackage{fontawesome5}
 \pagestyle{fancy}
 \fancyhf{}
  
@@ -66,7 +69,9 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Pradeep}{M}{{DOB - 16-10-1999}\\
-\href{mailto:pradeepsimba@gmail.com}{pradeepsimba@gmail.com} | +919080941127 | \href{https://www.linkedin.com/in/pradeepsimba/}{Linkedin pradeep-simba}
+\faIcon{envelope} \href{mailto:pradeepsimba@gmail.com}{\textcolor{blue}{pradeepsimba@gmail.com}} \quad | \quad
+\faIcon{phone} \textcolor{blue}{+91 90809 41127} \quad | \quad
+\faIcon{globe} \href{https://pradeepsimba.github.io}{\textcolor{blue}{Portfolio}}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
