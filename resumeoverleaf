@@ -106,16 +106,22 @@ Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
 
 \end{tightemize}
 \sectionsep
-\section{Research}
-\runsubsection{Fake News Detection System}
-\descript{| AI-Driven Misinformation Filtering}
-\location{Jan 2020 -- Jan 2021 | Tamil Nadu, India}
-Collaborated with researchers \textbf{Sanjay}, \textbf{Sabaresh}, and \textbf{Prakash} to build an AI-powered misinformation detection system using NLP and ensemble ML models on \textbf{50,000+ news articles}.
-\begin{itemize}
-  \item Achieved \textbf{92\%+ accuracy} and \textbf{89\% precision} classifying real vs. fake news using Random Forest, SVM, and LSTM models.
-\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{Projects}
+\runsubsection{AI Document Analysis System}
+\descript{| Django, Gemini API, REST, AWS}
+\location{2026}
+\begin{tightemize}
+\item Built a document analysis system allowing users to upload files (PDF/DOC) for AI-powered content extraction and summarization.
+\item Integrated Google Gemini API to process uploaded documents and generate structured analytical insights.
+\item Developed secure REST endpoints for file upload, prompt orchestration, and AI response handling.
+\item Deployed on AWS EC2 with secure environment-based API key management.
+\end{tightemize}
 \sectionsep
+
 
 
 \sectionsep
