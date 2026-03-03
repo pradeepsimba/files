@@ -36,46 +36,52 @@
 \sectionsep
 
 \section{Links} 
-Portfolio:// \href{https://pradeepsimba.github.io}{\bf pradeep} \\
 Github:// \href{https://github.com/pradeepsimba}{\bf pradeep} \\
 LinkedIn://  \href{https://www.linkedin.com/in/pradeepsimba/}{\bf pradeep} \\
 Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep} \\
 Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
-
 \section{Skills}
 
 \subsection{Programming Languages}
+\textbullet{} Python (Advanced) \\
 \textbullet{} Java (Advanced) \\
-\textbullet{} Python, JavaScript, C, C++ (Intermediate)
+\textbullet{} TypeScript, JavaScript (Intermediate)
 
 \sectionsep
 
 \subsection{Frontend Technologies}
+\textbullet{} Angular (Advanced) \\
 \textbullet{} HTML5, CSS3, Bootstrap \\
-\textbullet{} Angular, React.js, React Native
+\textbullet{} TypeScript
 
 \sectionsep
 
 \subsection{Backend \& Frameworks}
-\textbullet{} Django, REST APIs \\
-\textbullet{} Flutter, JavaFX Desktop Apps
+\textbullet{} Django, FastAPI \\
+\textbullet{} RESTful API Development \\
+\textbullet{} Microservices Architecture
 
 \sectionsep
 
 \subsection{Database \& Storage}
-\textbullet{} SQL, SQLite, PostgreSQL
+\textbullet{} PostgreSQL (Advanced) \\
+\textbullet{} SQL, Database Design, Query Optimization
 
 \sectionsep
 
-\subsection{Tools \& DevOps}
-\textbullet{} Git, GitHub, Postman \\
-\textbullet{} Docker, Kubernetes, Linux CLI
+\subsection{Cloud \& DevOps}
+\textbullet{} AWS (EC2, S3, Lambda, RDS, IAM, CloudWatch, VPC)
+\textbullet{} Google Cloud Platform (GCP) \\
+\textbullet{} Docker, Kubernetes \\
+\textbullet{} GitHub Actions (CI/CD) \\
+\textbullet{} Linux CLI
 
 \sectionsep
 
-\subsection{Other Skills}
-\textbullet{} Android Native Development \\
-\textbullet{} JNI (Java Native Interface) \\
+\subsection{Other Technologies}
+\textbullet{} Android Development (Java) \\
+\textbullet{} Desktop Application (JavaFX) \\
+\textbullet{} Git, Postman \\
 
 \end{minipage} 
 \hfill
@@ -87,15 +93,20 @@ Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
 \location{Jul 2022 -- Present | Tamil Nadu, India}
 \vspace{\topsep}
 \begin{tightemize}
-\item Built a \textbf{Multi-Tenant SaaS platform} using Django, onboarding \textbf{10+ enterprise clients} with isolated data environments and RBAC, cutting client setup time by \textbf{50\%}.
-\item Designed and maintained \textbf{15+ RESTful APIs}; optimized slow queries and introduced Redis caching, improving API response time by \textbf{35\%}.
-\item Migrated a monolithic application to modular Django architecture, reducing production deployment time from \textbf{45 min to under 10 min} (78\% faster).
-\item Developed \textbf{8+ frontend modules} in JavaScript and React.js, cutting average page load time by \textbf{25\%} and increasing user engagement by \textbf{20\%}.
-\item Integrated \textbf{Docker and Kubernetes} into the CI/CD pipeline, reducing environment setup time by \textbf{60\%} and eliminating \textbf{90\%} of deployment-specific bugs.
-\item Mentored \textbf{3 junior developers} through weekly code reviews, reducing team bug rates by \textbf{30\%}.
+
+\item Architected and developed a \textbf{Multi-Tenant SaaS platform} using Django and FastAPI, onboarding \textbf{10+ enterprise clients} with isolated PostgreSQL schemas and RBAC, reducing client onboarding time by \textbf{50\%}.
+
+\item Designed and maintained \textbf{20+ RESTful APIs}; optimized complex PostgreSQL queries and implemented caching strategies, improving API response time by \textbf{35\%}.
+
+\item Built and enhanced \textbf{Angular-based frontend modules} with TypeScript, improving page performance by \textbf{25\%} and increasing user engagement by \textbf{20\%}.
+
+\item Containerized applications using \textbf{Docker} and deployed to \textbf{Kubernetes clusters} on AWS and GCP, reducing deployment time by \textbf{70\%} and minimizing environment-related issues.
+
+\item Implemented \textbf{CI/CD pipelines using GitHub Actions}, enabling automated testing and zero-downtime deployments.
+
+
 \end{tightemize}
 \sectionsep
-
 \section{Research}
 \runsubsection{Fake News Detection System}
 \descript{| AI-Driven Misinformation Filtering}
@@ -107,23 +118,29 @@ Collaborated with researchers \textbf{Sanjay}, \textbf{Sabaresh}, and \textbf{Pr
 
 \sectionsep
 
-\section{Key Projects}
 
-\runsubsection{Enterprise Multi-Tenant Portal}
-\descript{| Django, PostgreSQL}
-\location{Jan 2023 -- Dec 2023 | Mahima Technologies}
-\begin{tightemize}
-\item Designed tenant-aware database schemas and middleware supporting \textbf{10+ concurrent tenants}, ensuring \textbf{100\% data isolation} with zero cross-tenant incidents.
-\item Built per-tenant white-label theming and configuration management, reducing client onboarding time from \textbf{3 days to under 4 hours}.
-\end{tightemize}
 \sectionsep
 
-\runsubsection{Inventory \& Workflow Management App}
-\descript{| Java, Android Native, Django REST, SQLite}
-\location{Jul 2022 -- Dec 2022 | Mahima Technologies}
+\runsubsection{PDF Annotation Tool (Desktop Application)}
+\descript{| Java, JavaFX, PDF Processing}
+\location{Personal / R\&D Project}
 \begin{tightemize}
-\item Developed a \textbf{native Android app} (Java) with real-time inventory tracking for \textbf{5,000+ SKUs}, integrating \textbf{Django REST APIs} for live sync and push notifications for \textbf{200+ users}.
-\item Automated \textbf{12 recurring reports} via Celery \& Redis, saving \textbf{8+ hrs/week}; optimized \textbf{SQLite} local storage with offline-first architecture for uninterrupted mobile access.
+\item Designed and developed a \textbf{cross-platform PDF annotation tool} using JavaFX, enabling users to add \textbf{tick marks, cross marks, and visual indicators} on PDF documents.
+\item Implemented efficient PDF rendering and overlay mechanisms for smooth annotation without modifying original document layers.
+\item Optimized UI responsiveness and memory usage for handling large PDF files.
+\end{tightemize}
+
+\sectionsep
+
+\runsubsection{Cross-Platform PC Controller Application}
+\descript{| Android (Java), JavaFX, JNI, Desktop Integration}
+\location{Personal / R\&D Project}
+\begin{tightemize}
+\item Built a \textbf{PC controller application} enabling Android devices to control Windows, Linux, and macOS systems.
+\item Developed the \textbf{desktop client using JavaFX} and implemented system-level operations using \textbf{JNI (Java Native Interface)}.
+\item Engineered secure device communication between Android client and desktop server for real-time command execution.
+\item Designed modular architecture to ensure platform compatibility across multiple operating systems.
+
 \end{tightemize}
 \sectionsep
 
