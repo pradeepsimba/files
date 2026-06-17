@@ -2,11 +2,12 @@
 \usepackage{fancyhdr}
 \usepackage{xcolor}
 \usepackage{hyperref}
-\usepackage{graphicx}  
+\usepackage{graphicx}
 \usepackage{fontawesome5}
+
 \pagestyle{fancy}
 \fancyhf{}
- 
+
 \begin{document}
 
 \namesection{{\bfseries }}{{\bfseries Pradeep Mariannan}}{%
@@ -15,76 +16,82 @@
   \faIcon{globe} \href{https://pradeepsimba.github.io}{\textcolor{blue}{Portfolio}}
 }
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.33\textwidth}
 
-\section{Education} 
+\section{Education}
 
 \subsection{Anna University}
 \descript{B.E in Electronics and Communication Engineering}
 \location{Oct 2021 | Tamil Nadu, India}
 \location{GPA: 7.1}
 \sectionsep
-\sectionsep
+
 \subsection{John Britto School}
 \location{May 2017 | Tamil Nadu, India}
 \location{GPA: 7.9}
 \sectionsep
-\sectionsep
+
 \subsection{South Indian School}
 \location{May 2015 | Tamil Nadu, India}
 \location{GPA: 8.9}
 \sectionsep
 
-\section{Links} 
+\section{Links}
+
 Github:// \href{https://github.com/pradeepsimba}{\bf pradeep} \\
-LinkedIn://  \href{https://www.linkedin.com/in/pradeepsimba/}{\bf pradeep} \\
-Stackoverflow://  \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep} \\
-Kaggle://  \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep} \\
+LinkedIn:// \href{https://www.linkedin.com/in/pradeepsimba/}{\bf pradeep} \\
+Stackoverflow:// \href{https://stackoverflow.com/users/10870644/pradeep-simba}{\bf pradeep} \\
+Kaggle:// \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep}
+
+\sectionsep
+
 \section{Skills}
 
 \subsection{Programming Languages}
 \textbullet{} Python (Advanced) \\
 \textbullet{} Java (Advanced) \\
-\textbullet{} TypeScript, JavaScript (Intermediate)
+\textbullet{} TypeScript, JavaScript (Intermediate) \\
+\textbullet{} C, C++
 
 \sectionsep
 
 \subsection{Frontend Technologies}
 \textbullet{} Angular (Advanced) \\
-\textbullet{} TypeScript
+\textbullet{} TypeScript \\
+\textbullet{} Angular Material \\
+
 
 \sectionsep
 
 \subsection{Backend \& Frameworks}
 \textbullet{} Django, FastAPI \\
-\textbullet{} RESTful API Development \\
-\textbullet{} Microservices Architecture
+\textbullet{} Microservices Architecture \\
+\textbullet{} WebSocket, gRPC
 
 \sectionsep
 
 \subsection{Database \& Storage}
 \textbullet{} PostgreSQL (Advanced) \\
-\textbullet{} SQL, Database Design, Query Optimization
+\textbullet{} Redis
 
 \sectionsep
 
 \subsection{Cloud \& DevOps}
-\textbullet{} AWS (EC2, S3, Lambda, RDS, IAM, CloudWatch, VPC)
+\textbullet{} AWS (EC2, S3, Lambda, RDS, IAM, CloudWatch, VPC) \\
 \textbullet{} Google Cloud Platform (GCP) \\
-\textbullet{} Docker, Kubernetes \\
+\textbullet{} Docker, Kubernetes, Helm \\
 \textbullet{} GitHub Actions (CI/CD) \\
-\textbullet{} Linux CLI
+\textbullet{} Nginx
 
 \sectionsep
 
-\subsection{Other Technologies}
-\textbullet{} Android Development (Java) \\
-\textbullet{} Desktop Application (JavaFX) \\
-\textbullet{} Git, Postman \\
+\subsection{Messaging \& Distributed Systems}
+\textbullet{} Kafka \\
+\textbullet{} Event-Driven Architecture
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66\textwidth}
 
 \section{Experience}
 \runsubsection{Mahima Technologies}
