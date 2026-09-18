@@ -79,9 +79,9 @@ Kaggle:// \href{https://www.kaggle.com/pradeepsimba}{\bf pradeep}
 \subsection{Cloud \& DevOps}
 \textbullet{} AWS (EC2, S3, Lambda, RDS, IAM, CloudWatch, VPC) \\
 \textbullet{} Google Cloud Platform (GCP) \\
-\textbullet{} Docker, Kubernetes, Helm \\
-\textbullet{} GitHub Actions (CI/CD) \\
-\textbullet{} Nginx
+\textbullet{} Nginx , Docker, Kubernetes, and Terraform \\
+\textbullet{} Jenkins and GitHub Actions (CI/CD) \\
+\textbullet{} prometheus and grafana
 
 \sectionsep
 
